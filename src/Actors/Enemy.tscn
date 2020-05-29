@@ -7,7 +7,7 @@
 extents = Vector2( 42, 30 )
 
 [sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 38, 15 )
+extents = Vector2( 34, 15 )
 
 [node name="Enemy" type="KinematicBody2D"]
 collision_layer = 2
